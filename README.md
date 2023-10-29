@@ -2,7 +2,7 @@
 
 This project involves the following SQL queries:
 
-1.Display all customer records.
+1.Display all customer records.<br>
 2.Show the total number of customers.
 3.List transactions for the Chennai market (market code: Mark001).
 4.Display distinct product codes sold in Chennai.
