@@ -1,4 +1,4 @@
-# Data_Insights_Tableau
+# Data_Insights_Using_Tableau
 
 This project involves the following SQL queries:
 
